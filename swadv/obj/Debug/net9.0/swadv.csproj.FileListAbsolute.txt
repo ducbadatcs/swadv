@@ -1,0 +1,14 @@
+C:\Users\minhduc\source\repos\swadv\swadv\bin\Debug\net9.0\swadv.exe
+C:\Users\minhduc\source\repos\swadv\swadv\bin\Debug\net9.0\swadv.deps.json
+C:\Users\minhduc\source\repos\swadv\swadv\bin\Debug\net9.0\swadv.runtimeconfig.json
+C:\Users\minhduc\source\repos\swadv\swadv\bin\Debug\net9.0\swadv.dll
+C:\Users\minhduc\source\repos\swadv\swadv\bin\Debug\net9.0\swadv.pdb
+C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\swadv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\swadv.AssemblyInfoInputs.cache
+C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\swadv.AssemblyInfo.cs
+C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\swadv.csproj.CoreCompileInputs.cache
+C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\swadv.dll
+C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\refint\swadv.dll
+C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\swadv.pdb
+C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\swadv.genruntimeconfig.cache
+C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\ref\swadv.dll
