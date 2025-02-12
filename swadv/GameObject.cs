@@ -20,7 +20,7 @@
             get { return "a " + this._name + " (" + this.FirstId + ")"; }
         }
 
-        public virtual string LongDescription
+        public virtual string FullDescription
         {
             get { return this._description; }
         }

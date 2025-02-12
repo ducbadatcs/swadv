@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\minhduc\\source\\repos\\swadv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{314E60D4-F2F0-4506-8615-75DDC715AC52}|TestProject1\\TestidentifiableObject.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\testproject1\\testidentifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{314E60D4-F2F0-4506-8615-75DDC715AC52}|TestProject1\\TestidentifiableObject.csproj|solutionrelative:testproject1\\testidentifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0E1F14A-DC62-4B66-9C60-B52F7E64E613}|TestItem\\TestItem.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\testitem\\testitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E1F14A-DC62-4B66-9C60-B52F7E64E613}|TestItem\\TestItem.csproj|solutionrelative:testitem\\testitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E80F1308-73F7-4CC8-A40E-265A9FC455DD}|TestBag\\TestBag.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\testbag\\testbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80F1308-73F7-4CC8-A40E-265A9FC455DD}|TestBag\\TestBag.csproj|solutionrelative:testbag\\testbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DDFAFA2-464E-4E71-890C-68A0829E286F}|TestPlayer\\TestPlayer.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\testplayer\\testplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DDFAFA2-464E-4E71-890C-68A0829E286F}|TestPlayer\\TestPlayer.csproj|solutionrelative:testplayer\\testplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E60D4-F2F0-4506-8615-75DDC715AC52}|TestProject1\\TestidentifiableObject.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\testproject1\\testidentifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E60D4-F2F0-4506-8615-75DDC715AC52}|TestProject1\\TestidentifiableObject.csproj|solutionrelative:testproject1\\testidentifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80F1308-73F7-4CC8-A40E-265A9FC455DD}|TestBag\\TestBag.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\testbag\\testbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80F1308-73F7-4CC8-A40E-265A9FC455DD}|TestBag\\TestBag.csproj|solutionrelative:testbag\\testbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +54,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 295,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestItem.cs",
+              "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\TestItem\\TestItem.cs",
+              "RelativeDocumentMoniker": "TestItem\\TestItem.cs",
+              "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\TestItem\\TestItem.cs",
+              "RelativeToolTip": "TestItem\\TestItem.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:40:17.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Item.cs",
+              "RelativeDocumentMoniker": "swadv\\Item.cs",
+              "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Item.cs",
+              "RelativeToolTip": "swadv\\Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:39:00.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "swadv\\IdentifiableObject.cs",
+              "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\IdentifiableObject.cs",
+              "RelativeToolTip": "swadv\\IdentifiableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:38:57.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\GameObject.cs",
+              "RelativeDocumentMoniker": "swadv\\GameObject.cs",
+              "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\GameObject.cs",
+              "RelativeToolTip": "swadv\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:38:28.328Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -42,7 +118,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Player.cs",
+              "RelativeDocumentMoniker": "swadv\\Player.cs",
+              "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Player.cs",
+              "RelativeToolTip": "swadv\\Player.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:31:27.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\TestPlayer\\TestPlayer.cs",
+              "RelativeDocumentMoniker": "TestPlayer\\TestPlayer.cs",
+              "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\TestPlayer\\TestPlayer.cs",
+              "RelativeToolTip": "TestPlayer\\TestPlayer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:30:27.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Program.cs",
               "RelativeDocumentMoniker": "swadv\\Program.cs",
@@ -55,52 +157,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "TestIdentifiableObject.cs",
               "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\TestProject1\\TestIdentifiableObject.cs",
               "RelativeDocumentMoniker": "TestProject1\\TestIdentifiableObject.cs",
               "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\TestProject1\\TestIdentifiableObject.cs",
               "RelativeToolTip": "TestProject1\\TestIdentifiableObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T10:24:36.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Inventory.cs",
               "RelativeDocumentMoniker": "swadv\\Inventory.cs",
               "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Inventory.cs",
               "RelativeToolTip": "swadv\\Inventory.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswCkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T09:44:49.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Bag.cs",
               "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Bag.cs",
               "RelativeDocumentMoniker": "swadv\\Bag.cs",
               "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Bag.cs",
               "RelativeToolTip": "swadv\\Bag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T09:43:21.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "TestBag.cs",
               "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\TestBag\\TestBag.cs",
               "RelativeDocumentMoniker": "TestBag\\TestBag.cs",
               "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\TestBag\\TestBag.cs",
               "RelativeToolTip": "TestBag\\TestBag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T09:43:20.461Z",
               "EditorCaption": ""

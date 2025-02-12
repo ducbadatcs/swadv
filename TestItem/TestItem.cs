@@ -11,8 +11,8 @@ namespace TestItem
         // item taken from assignment paper
         public Item shovel = new Item
         (
-            new String[] { "shovel", "spade" }, 
-            "a shovel", 
+            new String[] { "shovel", "spade" },
+            "a shovel",
             "This is a might fine ..."
         );
 
@@ -27,7 +27,7 @@ namespace TestItem
         public void TestShortDescription()
         {
             // test that Short Description matches the format?
-            GameObject brown_sword = new GameObject(new string[] {"sword"}, "bronze sword", "sword");
+            GameObject brown_sword = new GameObject(new string[] { "sword" }, "bronze sword", "sword");
             Console.WriteLine(brown_sword.ShortDescription);
             Assert.That(brown_sword.ShortDescription, Is.EqualTo("a bronze sword (sword)"));
         }
@@ -38,7 +38,7 @@ namespace TestItem
             // idk what to go here
             try
             {
-                string dummy = shovel.LongDescription;
+                string dummy = shovel.FullDescription;
             }
             catch (Exception ex)
             {

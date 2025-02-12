@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace swadv
+﻿namespace swadv
 {
     public class Player : GameObject
     {
@@ -14,17 +8,26 @@ namespace swadv
 
         public GameObject Locate(string id)
         {
+            if (this.AreYou(id))
+            {
+                return this;
+            }
             return this._inventory.Fetch(id);
         }
 
-        public override string LongDescription 
+        public override string FullDescription
         {
-            get 
+            get
             {
                 return
                     "You are " + this.Name + " " + this.ShortDescription + "\n" +
                     "You are carrying" + this._inventory.ItemList;
             }
+        }
+
+        public Inventory Inventory
+        {
+            get { return this._inventory; }
         }
     }
 }

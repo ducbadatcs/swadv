@@ -15,7 +15,7 @@
             return this._inventory.Fetch(id);
         }
 
-        public string FullDescription
+        public override string FullDescription
         {
             get
             {
