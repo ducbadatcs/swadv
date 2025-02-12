@@ -104,3 +104,4 @@ C:\Users\minhduc\source\repos\swadv\TestPlayer\obj\Debug\net9.0\refint\TestPlaye
 C:\Users\minhduc\source\repos\swadv\TestPlayer\obj\Debug\net9.0\TestPlayer.pdb
 C:\Users\minhduc\source\repos\swadv\TestPlayer\obj\Debug\net9.0\TestPlayer.genruntimeconfig.cache
 C:\Users\minhduc\source\repos\swadv\TestPlayer\obj\Debug\net9.0\ref\TestPlayer.dll
+C:\Users\minhduc\source\repos\swadv\TestPlayer\obj\Debug\net9.0\TestPlayer.sourcelink.json

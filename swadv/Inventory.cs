@@ -1,18 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace swadv
+﻿namespace swadv
 {
-    public class Inventory : Item
+    public class Inventory : GameObject
     {
-        private List<Item> _items = new List<Item>();
+        private List<Item> _items;
 
-        public Inventory() : base(new string[] { }, "", "") { }
+        public Inventory() : base(new string[] { }, "", "")
+        {
+            this._items = new List<Item>();
+        }
 
-        public bool HasString(string id)
+        public bool HasItem(string id)
         {
             foreach (Item item in this._items)
             {
@@ -31,12 +28,18 @@ namespace swadv
 
         public void Take(string id)
         {
+            Item to_be_removed = null;
             foreach (Item item in this._items)
             {
                 if (item.AreYou(id))
                 {
-                    this._items.Remove(item);
+                    to_be_removed = item;
+                    break;
                 }
+            }
+            if (to_be_removed is not null)
+            {
+                this._items.Remove(to_be_removed);
             }
         }
 

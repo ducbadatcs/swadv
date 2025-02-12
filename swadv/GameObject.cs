@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace swadv
+﻿namespace swadv
 {
     public class GameObject : IdentifiableObject
     {
@@ -21,7 +15,7 @@ namespace swadv
             get { return this._name; }
         }
 
-        public string ShortDescription 
+        public string ShortDescription
         {
             get { return "a " + this._name + " (" + this.FirstId + ")"; }
         }

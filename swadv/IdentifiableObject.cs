@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace swadv
+﻿namespace swadv
 {
     public class IdentifiableObject
     {
@@ -31,7 +25,7 @@ namespace swadv
                 {
                     return "";
                 }
-                return this._identifiers[0];
+                return this._identifiers[0].ToLower();
             }
         }
 

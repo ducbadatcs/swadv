@@ -104,3 +104,4 @@ C:\Users\minhduc\source\repos\swadv\TestProject1\obj\Debug\net9.0\refint\Testide
 C:\Users\minhduc\source\repos\swadv\TestProject1\obj\Debug\net9.0\TestidentifiableObject.pdb
 C:\Users\minhduc\source\repos\swadv\TestProject1\obj\Debug\net9.0\TestidentifiableObject.genruntimeconfig.cache
 C:\Users\minhduc\source\repos\swadv\TestProject1\obj\Debug\net9.0\ref\TestidentifiableObject.dll
+C:\Users\minhduc\source\repos\swadv\TestProject1\obj\Debug\net9.0\TestidentifiableObject.sourcelink.json

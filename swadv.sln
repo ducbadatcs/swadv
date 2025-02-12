@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swadv", "swadv\swadv.csproj", "{648EDD6A-5321-4A91-8158-7632C55316D9}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPlayer", "TestPlayer\TestPlayer.csproj", "{2DDFAFA2-464E-4E71-890C-68A0829E286F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInventory", "TestInventory\TestInventory.csproj", "{6075766E-21FB-4B40-BD2B-CA1119D9EC50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBag", "TestBag\TestBag.csproj", "{E80F1308-73F7-4CC8-A40E-265A9FC455DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6075766E-21FB-4B40-BD2B-CA1119D9EC50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6075766E-21FB-4B40-BD2B-CA1119D9EC50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6075766E-21FB-4B40-BD2B-CA1119D9EC50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80F1308-73F7-4CC8-A40E-265A9FC455DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80F1308-73F7-4CC8-A40E-265A9FC455DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80F1308-73F7-4CC8-A40E-265A9FC455DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80F1308-73F7-4CC8-A40E-265A9FC455DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

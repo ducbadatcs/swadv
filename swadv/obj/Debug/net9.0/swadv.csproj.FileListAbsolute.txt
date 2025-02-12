@@ -12,3 +12,4 @@ C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\refint\swadv.dll
 C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\swadv.pdb
 C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\swadv.genruntimeconfig.cache
 C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\ref\swadv.dll
+C:\Users\minhduc\source\repos\swadv\swadv\obj\Debug\net9.0\swadv.sourcelink.json

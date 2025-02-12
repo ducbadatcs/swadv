@@ -104,3 +104,4 @@ C:\Users\minhduc\source\repos\swadv\TestInventory\obj\Debug\net9.0\refint\TestIn
 C:\Users\minhduc\source\repos\swadv\TestInventory\obj\Debug\net9.0\TestInventory.pdb
 C:\Users\minhduc\source\repos\swadv\TestInventory\obj\Debug\net9.0\TestInventory.genruntimeconfig.cache
 C:\Users\minhduc\source\repos\swadv\TestInventory\obj\Debug\net9.0\ref\TestInventory.dll
+C:\Users\minhduc\source\repos\swadv\TestInventory\obj\Debug\net9.0\TestInventory.sourcelink.json

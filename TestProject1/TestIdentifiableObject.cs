@@ -1,5 +1,5 @@
 ﻿using swadv;
-namespace TestProject1
+namespace TestIdentifiableObject
 {
     public class Tests
     {
@@ -42,7 +42,7 @@ namespace TestProject1
         [Test]
         public void TestFirstIdWithNoIds()
         {
-            IdentifiableObject NoID = new IdentifiableObject(new string[] {});
+            IdentifiableObject NoID = new IdentifiableObject(new string[] { });
             Assert.That(NoID.FirstId, Is.EqualTo(""));
         }
 
@@ -58,9 +58,13 @@ namespace TestProject1
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.StackTrace);
                 Assert.Fail(ex.Message);
             }
-            Assert.That(id_copy.AreYou("test"), Is.True);
+            finally
+            {
+                Assert.That(id_copy.AreYou("test"), Is.True);
+            }
         }
 
         [Test]
@@ -74,9 +78,13 @@ namespace TestProject1
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.StackTrace);
                 Assert.Fail(ex.Message);
             }
-            Assert.That(id_copy.FirstId, Is.EqualTo("1452"));
+            finally
+            {
+                Assert.That(id_copy.FirstId, Is.EqualTo("1452"));
+            }
         }
     }
 }
