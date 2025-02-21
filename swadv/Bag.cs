@@ -1,6 +1,6 @@
 ﻿namespace swadv
 {
-    public class Bag : Item
+    public class Bag : Item, IHaveInventory
     {
         private Inventory _inventory = new Inventory();
         public Bag(string[] ids, string name, string desc) : base(ids, name, desc)
