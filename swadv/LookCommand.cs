@@ -33,9 +33,20 @@
             }
             else if (text.Length == 5)
             {
-                container = this.FetchContainer(p, text[4]);
+                string containerId = text[4];
+                container = this.FetchContainer(p, containerId);
+                if (container is null)
+                {
+                    return $"I can't find the {containerId}";
+                }
             }
+
+
             string item_id = text[2];
+            if (container is null)
+            {
+                return $"I can't find the {item_id}";
+            }
             return this.LookAtIn(item_id, container);
         }
 
@@ -46,7 +57,30 @@
 
         public string LookAtIn(string thingId, IHaveInventory container)
         {
-            return container.Locate(thingId).Name;
+            if (container is null)
+            {
+                return $"I can't find the {thingId}";
+            }
+            string result = "";
+            try
+            {
+                GameObject obj = container.Locate(thingId);
+                if (obj is null)
+                {
+                    result = $"I can't find the {thingId}";
+                }
+                else
+                {
+                    result = obj.FullDescription;
+                }
+            }
+            catch (Exception ex)
+            {
+                result = $"I can't find the {thingId}";
+            }
+
+            return result;
+
         }
     }
 }
