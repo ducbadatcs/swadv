@@ -1,25 +1,42 @@
 ﻿using swadv;
 
-// I really need to visualize this one down
-Player p = new Player("duc", "please help");
-Item gem = new Item(new string[] { "gem" }, "gem", "some gem");
-Bag bag = new Bag(new string[] { "bag" }, "bag", "a bag for items");
+// Get the player's name and description from the user, and use these details to create a 
+// Player object. 
+Console.Write("Enter player name: ");
+string playerName = Console.ReadLine() ?? "";
 
-bag.Inventory.Put(gem);
+Console.Write("Enter player description: ");
+string playerDescription = Console.ReadLine() ?? "";
 
-p.Inventory.Put(bag);
+Player player = new Player(playerName, playerDescription);
 
+// Create two items and add them to the the player's inventory 
+Item gem = new Item(new string[] { "gem" }, "gem", "a gem");
+Item shovel = new Item(new string[] { "shovel" }, "shovel", "a shovel");
+player.Inventory.Put(gem);
+player.Inventory.Put(shovel);
 
+// Create a bag and add it to the player's inventory 
+Bag bag = new Bag(new string[] { "bag" }, "bag", "a bag");
+player.Inventory.Put(bag);
+
+// Create another item and add it to the bag 
+Item bomb = new Item(new string[] { "bomb" }, "bomb", "it explodes I guess");
+bag.Inventory.Put(bomb);
+
+// Loop reading commands from the user, and getting the look command to execute them. 
 LookCommand lookCommand = new LookCommand();
 
-string[] command = "look at gem in bag".Split();
-try
+while (true)
 {
-    Console.WriteLine(lookCommand.Execute(p, command));
-}
-catch (Exception ex)
-{
-    Console.WriteLine("Exception: ", ex.ToString());
-    Console.WriteLine("StackTrace: ", ex.StackTrace);
-    Console.WriteLine("Message: ", ex.Message);
+    Console.Write("> ");
+    string input = Console.ReadLine() ?? "";
+    input = input.ToLower(); // can't do that on the line above because null 
+    // a nice feature
+    var split = input.Split(' ');
+    if (split.Contains("exit"))
+    {
+        break;
+    }
+    Console.WriteLine(lookCommand.Execute(player, split) + "\n");
 }
