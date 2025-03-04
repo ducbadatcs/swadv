@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestLookCommand")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c4ef5cb39453a4f463879b6269cbb1d8c9f27aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4baaec3adb15c50fa33f214677da2980a7b338df")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestLookCommand")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestLookCommand")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

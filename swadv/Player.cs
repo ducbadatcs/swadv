@@ -3,16 +3,25 @@
     public class Player : GameObject, IHaveInventory
     {
         private Inventory _inventory = new Inventory();
+        private Location _location = new Location(new string[] { }, "", "");
 
         public Player(string name, string desc) : base(new string[] { "me", "inventory" }, name, desc) { }
 
         public GameObject Locate(string id)
         {
-            if (this.AreYou(id))
+            id = id.ToLower();
+            if (id == "me" || id == "inventory") return this;
+            GameObject inventoryFetch = this._inventory.Fetch(id);
+            if (inventoryFetch is not null)
             {
-                return this;
+                return inventoryFetch;
             }
-            return this._inventory.Fetch(id);
+            GameObject locationFetch = this.Location.Locate(id);
+            if (locationFetch is not null)
+            {
+                return locationFetch;
+            }
+            return null;
         }
 
         public override string FullDescription
@@ -28,6 +37,12 @@
         public Inventory Inventory
         {
             get { return this._inventory; }
+        }
+
+        public Location Location 
+        { 
+            get { return this._location; } 
+            set { this._location = value; }
         }
     }
 }

@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\minhduc\\.nuget\\packages\\": {},
+    "C:\\Users\\duc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\swadv.csproj",
+      "projectUniqueName": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\swadv.csproj",
       "projectName": "swadv",
-      "projectPath": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\swadv.csproj",
-      "packagesPath": "C:\\Users\\minhduc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\obj\\",
+      "projectPath": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\swadv.csproj",
+      "packagesPath": "C:\\Users\\duc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\minhduc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\duc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

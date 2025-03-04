@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\minhduc\\source\\repos\\swadv\\",
+  "WorkspaceRootPath": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDD71D9E-0C1F-4ABA-919A-8E8D1B44549B}|TestLocation\\TestLocation.csproj|c:\\users\\duc\\source\\repos\\ducbadatcs\\swadv\\testlocation\\testlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD71D9E-0C1F-4ABA-919A-8E8D1B44549B}|TestLocation\\TestLocation.csproj|solutionrelative:testlocation\\testlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E80F1308-73F7-4CC8-A40E-265A9FC455DD}|TestBag\\TestBag.csproj|c:\\users\\duc\\source\\repos\\ducbadatcs\\swadv\\testbag\\testbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80F1308-73F7-4CC8-A40E-265A9FC455DD}|TestBag\\TestBag.csproj|solutionrelative:testbag\\testbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42207BD0-87D2-4B63-A73E-17B93DAA74C0}|TestIdentifiableObject\\TestidentifiableObject.csproj|c:\\users\\duc\\source\\repos\\ducbadatcs\\swadv\\testidentifiableobject\\testidentifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42207BD0-87D2-4B63-A73E-17B93DAA74C0}|TestIdentifiableObject\\TestidentifiableObject.csproj|solutionrelative:testidentifiableobject\\testidentifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{236FC27A-E63E-490E-BF6B-7744E4A799C1}|TestLookCommand\\TestLookCommand.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\testlookcommand\\testlookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{236FC27A-E63E-490E-BF6B-7744E4A799C1}|TestLookCommand\\TestLookCommand.csproj|solutionrelative:testlookcommand\\testlookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|c:\\users\\minhduc\\source\\repos\\swadv\\swadv\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{648EDD6A-5321-4A91-8158-7632C55316D9}|swadv\\swadv.csproj|solutionrelative:swadv\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{236FC27A-E63E-490E-BF6B-7744E4A799C1}|TestLookCommand\\TestLookCommand.csproj|c:\\users\\duc\\source\\repos\\ducbadatcs\\swadv\\testlookcommand\\testlookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236FC27A-E63E-490E-BF6B-7744E4A799C1}|TestLookCommand\\TestLookCommand.csproj|solutionrelative:testlookcommand\\testlookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 295,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,49 +62,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Item.cs",
-              "RelativeDocumentMoniker": "swadv\\Item.cs",
-              "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Item.cs",
-              "RelativeToolTip": "swadv\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TestLocation.cs",
+              "DocumentMoniker": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\TestLocation\\TestLocation.cs",
+              "RelativeDocumentMoniker": "TestLocation\\TestLocation.cs",
+              "ToolTip": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\TestLocation\\TestLocation.cs",
+              "RelativeToolTip": "TestLocation\\TestLocation.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAywDUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T08:45:46.391Z"
+              "WhenOpened": "2025-03-04T14:55:24.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\Player.cs",
+              "RelativeDocumentMoniker": "swadv\\Player.cs",
+              "ToolTip": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\Player.cs",
+              "RelativeToolTip": "swadv\\Player.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:48:40.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\GameObject.cs",
+              "RelativeDocumentMoniker": "swadv\\GameObject.cs",
+              "ToolTip": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\GameObject.cs",
+              "RelativeToolTip": "swadv\\GameObject.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:35:29.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\Location.cs",
+              "RelativeDocumentMoniker": "swadv\\Location.cs",
+              "ToolTip": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\Location.cs",
+              "RelativeToolTip": "swadv\\Location.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:35:09.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestIdentifiableObject.cs",
+              "DocumentMoniker": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\TestIdentifiableObject\\TestIdentifiableObject.cs",
+              "RelativeDocumentMoniker": "TestIdentifiableObject\\TestIdentifiableObject.cs",
+              "ToolTip": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\TestIdentifiableObject\\TestIdentifiableObject.cs",
+              "RelativeToolTip": "TestIdentifiableObject\\TestIdentifiableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:00:22.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestBag.cs",
+              "DocumentMoniker": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\TestBag\\TestBag.cs",
+              "RelativeDocumentMoniker": "TestBag\\TestBag.cs",
+              "ToolTip": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\TestBag\\TestBag.cs",
+              "RelativeToolTip": "TestBag\\TestBag.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:00:12.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\Item.cs",
+              "RelativeDocumentMoniker": "swadv\\Item.cs",
+              "ToolTip": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\Item.cs",
+              "RelativeToolTip": "swadv\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:45:46.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\Program.cs",
               "RelativeDocumentMoniker": "swadv\\Program.cs",
-              "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\Program.cs*",
-              "RelativeToolTip": "swadv\\Program.cs*",
-              "ViewState": "AgIAABcAAAAAAAAAAAD4vx8AAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\Program.cs",
+              "RelativeToolTip": "swadv\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T06:31:42.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "LookCommand.cs",
-              "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\LookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\LookCommand.cs",
               "RelativeDocumentMoniker": "swadv\\LookCommand.cs",
-              "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\swadv\\LookCommand.cs",
+              "ToolTip": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\swadv\\LookCommand.cs",
               "RelativeToolTip": "swadv\\LookCommand.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowAQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T11:23:40.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "TestLookCommand.cs",
-              "DocumentMoniker": "C:\\Users\\minhduc\\source\\repos\\swadv\\TestLookCommand\\TestLookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\TestLookCommand\\TestLookCommand.cs",
               "RelativeDocumentMoniker": "TestLookCommand\\TestLookCommand.cs",
-              "ToolTip": "C:\\Users\\minhduc\\source\\repos\\swadv\\TestLookCommand\\TestLookCommand.cs",
+              "ToolTip": "C:\\Users\\duc\\source\\repos\\ducbadatcs\\swadv\\TestLookCommand\\TestLookCommand.cs",
               "RelativeToolTip": "TestLookCommand\\TestLookCommand.cs",
               "ViewState": "AgIAAM4AAAAAAAAAAAAEwNUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
