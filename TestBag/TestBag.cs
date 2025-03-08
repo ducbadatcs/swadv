@@ -3,10 +3,10 @@ namespace TestBag
 {
     public class Tests
     {
-        Item shovel = new Item(new string[] { "shovel" }, "shovel", "shovel");
-        Item bronze_sword = new Item(new string[] { "sword" }, "bronze sword", "sword");
-        Item small_computer = new Item(new string[] { "pc" }, "small computer", "computer");
-        //public Bag bag = new Bag(new string[] { "bag" }, "Bag", "a bag I guess");
+        //Item shovel = new Item(new string[] { "shovel" }, "shovel", "shovel");
+        //Item bronze_sword = new Item(new string[] { "sword" }, "bronze sword", "sword");
+        //Item small_computer = new Item(new string[] { "pc" }, "small computer", "computer");
+        ////public Bag bag = new Bag(new string[] { "bag" }, "Bag", "a bag I guess");
 
         [SetUp]
         public void Setup()

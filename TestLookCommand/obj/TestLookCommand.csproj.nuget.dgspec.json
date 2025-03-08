@@ -49,6 +49,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -125,7 +135,7 @@
             },
             "NUnit": {
               "target": "Package",
-              "version": "[4.2.2, )"
+              "version": "[4.3.2, )"
             },
             "NUnit.Analyzers": {
               "target": "Package",
@@ -133,7 +143,7 @@
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.6.0, )"
+              "version": "[5.0.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
