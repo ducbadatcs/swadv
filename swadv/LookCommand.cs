@@ -4,7 +4,7 @@
     {
         public LookCommand() : base(new string[] { "look" }) { }
 
-        public override string Execute(Player p, string[] text)
+        public override string Execute(ref Player p, string[] text)
         {
             if (text.Length != 3 && text.Length != 5)
             {

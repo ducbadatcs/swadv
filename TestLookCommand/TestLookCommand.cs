@@ -95,7 +95,7 @@ namespace TestLookCommand
 
             try
             {
-                result = lookCommand.Execute(p, "look at gem in inventory".Split());
+                result = lookCommand.Execute(ref p, "look at gem in inventory".Split());
             }
             catch (Exception ex)
             {
@@ -122,7 +122,7 @@ namespace TestLookCommand
 
             try
             {
-                result = lookCommand.Execute(p, "look at gem in bag".Split());
+                result = lookCommand.Execute(ref p, "look at gem in bag".Split());
             }
             catch (Exception ex)
             {
@@ -152,7 +152,7 @@ namespace TestLookCommand
 
             try
             {
-                result = lookCommand.Execute(p, "look at gem in bag".Split());
+                result = lookCommand.Execute(ref p, "look at gem in bag".Split());
             }
             catch (Exception ex)
             {
@@ -181,7 +181,7 @@ namespace TestLookCommand
 
             try
             {
-                result = lookCommand.Execute(p, "look at gem in bag".Split());
+                result = lookCommand.Execute(ref p, "look at gem in bag".Split());
             }
             catch (Exception ex)
             {
@@ -213,7 +213,7 @@ namespace TestLookCommand
                 string result = "";
                 try
                 {
-                    result = lookCommand.Execute(p, test.Key.Split(' '));
+                    result = lookCommand.Execute(ref p, test.Key.Split(' '));
                 }
                 catch (Exception ex)
                 {

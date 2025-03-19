@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("swadv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+752c5792c5168b806bd15003c92742a2bd7e3db6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+600f4b21e3bf3af67265e3a642d6ff3394f6c797")]
 [assembly: System.Reflection.AssemblyProductAttribute("swadv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("swadv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

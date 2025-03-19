@@ -4,6 +4,6 @@
     {
         public Command(string[] ids) : base(ids) { }
 
-        public abstract string Execute(Player p, string[] text);
+        public abstract string Execute(ref Player p, string[] text);
     }
 }
