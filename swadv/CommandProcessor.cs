@@ -14,9 +14,18 @@ namespace swadv
             new MoveCommand(),
         };
 
+        public CommandProcessor() 
+        {
+            this._commands = new List<Command>()
+            {
+                new LookCommand(),
+                new MoveCommand(),
+            };
+        }
+
         public string Execute(ref Player p, string[] text)
         {
-            if (text.Count() == 0)
+            if (text.Length == 0)
             {
                 return "";
             }
